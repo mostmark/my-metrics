@@ -203,7 +203,7 @@
       "thresholds": [],
       "timeFrom": null,
       "timeShift": null,
-      "title": "com.test.GreetingResource.getOneTaskTimer",
+      "title": "Average request time",
       "tooltip": {
         "shared": true,
         "sort": 0,
