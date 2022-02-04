@@ -111,7 +111,7 @@
       "thresholds": [],
       "timeFrom": null,
       "timeShift": null,
-      "title": "com.test.GreetingResource.getOneTask",
+      "title": "Number of requests",
       "tooltip": {
         "shared": true,
         "sort": 0,
